@@ -1,0 +1,15 @@
+C:\revature\DonalRepo\dotnet\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\revature\DonalRepo\dotnet\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\revature\DonalRepo\dotnet\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\revature\DonalRepo\dotnet\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\revature\DonalRepo\dotnet\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\revature\DonalRepo\dotnet\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\revature\DonalRepo\dotnet\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\revature\DonalRepo\dotnet\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\revature\DonalRepo\dotnet\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\revature\DonalRepo\dotnet\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\revature\DonalRepo\dotnet\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\revature\DonalRepo\dotnet\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+C:\revature\DonalRepo\dotnet\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\revature\DonalRepo\dotnet\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+C:\revature\DonalRepo\dotnet\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
